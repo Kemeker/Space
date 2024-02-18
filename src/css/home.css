@@ -1,0 +1,28 @@
+
+body{
+    color: white;
+    height: 100vh;
+    margin: 0;
+    background: url('../assets/home/background-home-desktop.jpg');
+}
+nav{
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav a{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    
+}
+.container{
+    padding: 20px;
+}
+p{
+    text-align: center;
+    margin-right: 800px;
+    display: flex;
+    
+}
